@@ -16,7 +16,7 @@
 
 <h1></h1>
 
-Visitor count
+Visitor counter
 
 <img src="https://profile-counter.glitch.me/BaptisteGfy/count.svg" />
   
