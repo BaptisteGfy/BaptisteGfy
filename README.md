@@ -3,7 +3,7 @@
 <h1 align="center">I'm Baptiste from France 🇫🇷 </h1>
 
 <div align="center">
-<p align="center">README IN PROGRES ...</p>
+<p align="center">README IN PROGRESS ...</p>
 
 
 
