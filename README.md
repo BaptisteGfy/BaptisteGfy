@@ -14,9 +14,7 @@
 <img src="https://skillicons.dev/icons?i=postgresql" />
 <img src="https://skillicons.dev/icons?i=prisma" />
 
-<h1></h1>
-
-Visitor counter
+<h3>Visitor counter</h3>
 
 <img src="https://profile-counter.glitch.me/BaptisteGfy/count.svg" />
   
