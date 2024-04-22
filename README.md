@@ -1,4 +1,3 @@
-
 <img src="https://github.com/BaptisteGfy/BaptisteGfy/blob/main/greetings.gif?raw=true" alt="Greeting GIF" width="auto">
 
 <h1 align="center">I'm Baptiste from France 🇫🇷 </h1>
@@ -8,6 +7,7 @@
 
 ![Infinity@2x-1 0s-200px-200px (3)](https://github.com/BaptisteGfy/BaptisteGfy/assets/166660152/9c3dee4a-62de-415a-841e-d9626d2a175e)
 
+<h3>Ma stack</h3>
 <img src="https://skillicons.dev/icons?i=javascript" />
 
 <img src="https://skillicons.dev/icons?i=react" />
